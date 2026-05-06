@@ -3,18 +3,19 @@
 ## Overview
 End-to-end data pipeline and statistical analysis testing the “hot hand” hypothesis in competitive fencing pool bouts using data from the February 2026 NAC tournament.
 
-The project transforms raw fencing pool-grid results into a clean fencer-bout-level dataset, engineers sequential performance features, joins pre-tournament rating data as a skill proxy, and uses logistic regression as a downstream analysis.
+This project transforms raw fencing pool-grid results into a clean fencer-bout-level dataset, engineers sequential performance features, joins pre-tournament rating data as a skill proxy, and uses logistic regression as a downstream analysis.
 
 ## Pipeline
 1. **Ingestion** — Raw pool-grid results are parsed from compact fencing notation such as `V5` and `D3` into structured bout records.
-2. **Validation** — Pool results are checked for missing matchups, malformed result cells, and inconsistent win/loss pairs.
-3. **Transformation** — One row is created per fencer per bout, with win/loss outcome, bout order, score margin, and opponent information.
-4. **Feature Engineering** — Sequential and skill-based features are created, including `prev_win`, rolling recent win rate, and `strength_diff`.
-5. **Modeling** — Logistic regression is used to test whether previous-bout outcome predicts the next result after controlling for skill.
-6. **Output** — Cleaned dataset exported to `data/processed/final_dataset.csv`.
+2. **Transformation** — One row is created per fencer per bout, with win/loss outcome, bout order, score margin, and opponent information.
+3. **Feature Engineering** — Sequential and skill-based features are created, including `prev_win`, `recent_form_3`, and `strength_diff`.
+4. **Modeling** — Logistic regression is used to test whether previous-bout outcome predicts the next result after controlling for skill.
+5. **Output** — The cleaned model-ready dataset is exported to `data/processed/final_dataset.csv`.
 
 ## Key Finding
-A raw hot-hand effect appears descriptively: fencers won more often after a win than after a loss, with a +21.3 percentage point gap. After controlling for skill differential, the estimated gap shrinks to about +4.0 percentage points and is not statistically significant in the close-match robustness check. Strength difference is the dominant predictor, with an in-sample AUC of 0.875.
+A raw hot-hand effect appears descriptively: fencers won 61.2% of bouts after a win compared to 39.9% after a loss, a +21.3 percentage point gap.
+
+After controlling for skill differential in the full logistic regression model, previous-bout outcome is not statistically significant (`p = 0.381`). Strength difference is the dominant predictor, and the model has an in-sample AUC of 0.875.
 
 ## Data
 - Source: February 2026 NAC tournament pool sheets
@@ -32,5 +33,25 @@ A raw hot-hand effect appears descriptively: fencers won more often after a win 
 ## How to Run
 1. Install dependencies:
 
-   ```bash
-   pip install pandas numpy matplotlib scikit-learn statsmodels
+```bash
+pip install pandas numpy matplotlib scikit-learn statsmodels
+```
+
+2. Open the notebook in JupyterLab:
+
+```bash
+jupyter lab fencing_hot_hand_analysis.ipynb
+```
+
+3. Run all cells:
+
+```text
+Kernel → Restart & Run All
+```
+
+## Output
+- `data/processed/final_dataset.csv` — cleaned model-ready dataset with engineered features
+- `hot_hand_win_rate.png` — visualization of the raw hot-hand effect
+
+## Note
+Each bout appears twice in the fencer-bout-level dataset, once from each fencer’s perspective. This is useful for creating per-fencer sequential features, but it means observations are not fully independent. The statistical results should therefore be interpreted as exploratory rather than causal.

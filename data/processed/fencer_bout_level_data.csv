@@ -1,0 +1,547 @@
+tournament,pool_id,fencer_num,fencer,opponent_num,opponent,bout_order,bout_type,cell_result,result,touches_scored,touches_allowed,score_margin,fencer_rating_pre,opp_rating_pre,strength_diff,win,fencer_bout_order,prev_win,recent_form_3
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,1,HUANG Eythan,4,pool,D2,0,2,5,-3,2080.0,2420.0,-340.0,0,1,,
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,6,KAO Castor T.,7,pool,D1,0,1,5,-4,2080.0,3260.0,-1180.0,0,2,0.0,0.0
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,5,MCISAAC Finn,11,pool,V5,1,5,5,0,2080.0,2368.0,-288.0,1,3,0.0,0.0
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,2,SHANNON Jack,14,pool,D3,0,3,5,-2,2080.0,2059.0,21.0,0,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,3,PARK Sky,18,pool,D3,0,3,5,-2,2080.0,2468.0,-388.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,7,HOLLIDAY Christopher Mansfield-Scott,4,KNIZHNIK David,21,pool,D1,0,1,5,-4,2080.0,2953.0,-873.0,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,1,HUANG Eythan,4,KNIZHNIK David,1,pool,D0,0,0,5,-5,2420.0,2953.0,-533.0,0,1,,
+Feb NAC 2026,pool_1,1,HUANG Eythan,7,HOLLIDAY Christopher Mansfield-Scott,4,pool,V5,1,5,5,0,2420.0,2080.0,340.0,1,2,0.0,0.0
+Feb NAC 2026,pool_1,1,HUANG Eythan,5,MCISAAC Finn,8,pool,D4,0,4,5,-1,2420.0,2368.0,52.0,0,3,1.0,0.5
+Feb NAC 2026,pool_1,1,HUANG Eythan,3,PARK Sky,12,pool,D1,0,1,5,-4,2420.0,2468.0,-48.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,1,HUANG Eythan,6,KAO Castor T.,16,pool,D0,0,0,5,-5,2420.0,3260.0,-840.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,1,HUANG Eythan,2,SHANNON Jack,20,pool,D3,0,3,5,-2,2420.0,2059.0,361.0,0,6,0.0,0.0
+Feb NAC 2026,pool_1,6,KAO Castor T.,3,PARK Sky,3,pool,V5,1,5,5,0,3260.0,2468.0,792.0,1,1,,
+Feb NAC 2026,pool_1,6,KAO Castor T.,7,HOLLIDAY Christopher Mansfield-Scott,7,pool,V5,1,5,5,0,3260.0,2080.0,1180.0,1,2,1.0,1.0
+Feb NAC 2026,pool_1,6,KAO Castor T.,2,SHANNON Jack,10,pool,V5,1,5,5,0,3260.0,2059.0,1201.0,1,3,1.0,1.0
+Feb NAC 2026,pool_1,6,KAO Castor T.,4,KNIZHNIK David,13,pool,D3,0,3,5,-2,3260.0,2953.0,307.0,0,4,1.0,1.0
+Feb NAC 2026,pool_1,6,KAO Castor T.,1,HUANG Eythan,16,pool,V5,1,5,5,0,3260.0,2420.0,840.0,1,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_1,6,KAO Castor T.,5,MCISAAC Finn,19,pool,V5,1,5,5,0,3260.0,2368.0,892.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_1,4,KNIZHNIK David,1,HUANG Eythan,1,pool,V5,1,5,5,0,2953.0,2420.0,533.0,1,1,,
+Feb NAC 2026,pool_1,4,KNIZHNIK David,5,MCISAAC Finn,5,pool,V5,1,5,5,0,2953.0,2368.0,585.0,1,2,1.0,1.0
+Feb NAC 2026,pool_1,4,KNIZHNIK David,3,PARK Sky,9,pool,V5,1,5,5,0,2953.0,2468.0,485.0,1,3,1.0,1.0
+Feb NAC 2026,pool_1,4,KNIZHNIK David,6,KAO Castor T.,13,pool,V5,1,5,5,0,2953.0,3260.0,-307.0,1,4,1.0,1.0
+Feb NAC 2026,pool_1,4,KNIZHNIK David,2,SHANNON Jack,17,pool,V5,1,5,5,0,2953.0,2059.0,894.0,1,5,1.0,1.0
+Feb NAC 2026,pool_1,4,KNIZHNIK David,7,HOLLIDAY Christopher Mansfield-Scott,21,pool,V5,1,5,5,0,2953.0,2080.0,873.0,1,6,1.0,1.0
+Feb NAC 2026,pool_1,5,MCISAAC Finn,2,SHANNON Jack,2,pool,V5,1,5,5,0,2368.0,2059.0,309.0,1,1,,
+Feb NAC 2026,pool_1,5,MCISAAC Finn,4,KNIZHNIK David,5,pool,D0,0,0,5,-5,2368.0,2953.0,-585.0,0,2,1.0,1.0
+Feb NAC 2026,pool_1,5,MCISAAC Finn,1,HUANG Eythan,8,pool,V5,1,5,5,0,2368.0,2420.0,-52.0,1,3,0.0,0.5
+Feb NAC 2026,pool_1,5,MCISAAC Finn,7,HOLLIDAY Christopher Mansfield-Scott,11,pool,D4,0,4,5,-1,2368.0,2080.0,288.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_1,5,MCISAAC Finn,3,PARK Sky,15,pool,V5,1,5,5,0,2368.0,2468.0,-100.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,5,MCISAAC Finn,6,KAO Castor T.,19,pool,D1,0,1,5,-4,2368.0,3260.0,-892.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_1,3,PARK Sky,6,KAO Castor T.,3,pool,D1,0,1,5,-4,2468.0,3260.0,-792.0,0,1,,
+Feb NAC 2026,pool_1,3,PARK Sky,2,SHANNON Jack,6,pool,D4,0,4,5,-1,2468.0,2059.0,409.0,0,2,0.0,0.0
+Feb NAC 2026,pool_1,3,PARK Sky,4,KNIZHNIK David,9,pool,D2,0,2,5,-3,2468.0,2953.0,-485.0,0,3,0.0,0.0
+Feb NAC 2026,pool_1,3,PARK Sky,1,HUANG Eythan,12,pool,V5,1,5,5,0,2468.0,2420.0,48.0,1,4,0.0,0.0
+Feb NAC 2026,pool_1,3,PARK Sky,5,MCISAAC Finn,15,pool,D4,0,4,5,-1,2468.0,2368.0,100.0,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_1,3,PARK Sky,7,HOLLIDAY Christopher Mansfield-Scott,18,pool,V5,1,5,5,0,2468.0,2080.0,388.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,2,SHANNON Jack,5,MCISAAC Finn,2,pool,D1,0,1,5,-4,2059.0,2368.0,-309.0,0,1,,
+Feb NAC 2026,pool_1,2,SHANNON Jack,3,PARK Sky,6,pool,V5,1,5,5,0,2059.0,2468.0,-409.0,1,2,0.0,0.0
+Feb NAC 2026,pool_1,2,SHANNON Jack,6,KAO Castor T.,10,pool,D0,0,0,5,-5,2059.0,3260.0,-1201.0,0,3,1.0,0.5
+Feb NAC 2026,pool_1,2,SHANNON Jack,7,HOLLIDAY Christopher Mansfield-Scott,14,pool,V5,1,5,5,0,2059.0,2080.0,-21.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_1,2,SHANNON Jack,4,KNIZHNIK David,17,pool,D2,0,2,5,-3,2059.0,2953.0,-894.0,0,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_1,2,SHANNON Jack,1,HUANG Eythan,20,pool,V5,1,5,5,0,2059.0,2420.0,-361.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,5,CHEN Ethan,2,LO Conrad,2,pool,D3,0,3,5,-2,2527.0,3212.0,-685.0,0,1,,
+Feb NAC 2026,pool_10,5,CHEN Ethan,4,LE Jacob H.,5,pool,V5,1,5,5,0,2527.0,2542.0,-15.0,1,2,0.0,0.0
+Feb NAC 2026,pool_10,5,CHEN Ethan,1,LIU Ethan,8,pool,V5,1,5,5,0,2527.0,,,1,3,1.0,0.5
+Feb NAC 2026,pool_10,5,CHEN Ethan,7,HAN Changhee,11,pool,V5,1,5,5,0,2527.0,2675.0,-148.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_10,5,CHEN Ethan,3,WANG Elijah (QiChen),15,pool,V5,1,5,5,0,2527.0,2245.0,282.0,1,5,1.0,1.0
+Feb NAC 2026,pool_10,5,CHEN Ethan,6,YIN Zixin (Gavin),19,pool,V5,1,5,5,0,2527.0,2005.0,522.0,1,6,1.0,1.0
+Feb NAC 2026,pool_10,7,HAN Changhee,1,LIU Ethan,4,pool,D0,0,0,5,-5,2675.0,,,0,1,,
+Feb NAC 2026,pool_10,7,HAN Changhee,6,YIN Zixin (Gavin),7,pool,V5,1,5,5,0,2675.0,2005.0,670.0,1,2,0.0,0.0
+Feb NAC 2026,pool_10,7,HAN Changhee,5,CHEN Ethan,11,pool,D4,0,4,5,-1,2675.0,2527.0,148.0,0,3,1.0,0.5
+Feb NAC 2026,pool_10,7,HAN Changhee,2,LO Conrad,14,pool,D2,0,2,5,-3,2675.0,3212.0,-537.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,7,HAN Changhee,3,WANG Elijah (QiChen),18,pool,V5,1,5,5,0,2675.0,2245.0,430.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,7,HAN Changhee,4,LE Jacob H.,21,pool,V5,1,5,5,0,2675.0,2542.0,133.0,1,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_10,4,LE Jacob H.,1,LIU Ethan,1,pool,V5,1,5,5,0,2542.0,,,1,1,,
+Feb NAC 2026,pool_10,4,LE Jacob H.,5,CHEN Ethan,5,pool,D3,0,3,5,-2,2542.0,2527.0,15.0,0,2,1.0,1.0
+Feb NAC 2026,pool_10,4,LE Jacob H.,3,WANG Elijah (QiChen),9,pool,D3,0,3,5,-2,2542.0,2245.0,297.0,0,3,0.0,0.5
+Feb NAC 2026,pool_10,4,LE Jacob H.,6,YIN Zixin (Gavin),13,pool,V5,1,5,5,0,2542.0,2005.0,537.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,4,LE Jacob H.,2,LO Conrad,17,pool,V5,1,5,5,0,2542.0,3212.0,-670.0,1,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_10,4,LE Jacob H.,7,HAN Changhee,21,pool,D1,0,1,5,-4,2542.0,2675.0,-133.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_10,1,LIU Ethan,4,LE Jacob H.,1,pool,D3,0,3,5,-2,,2542.0,,0,1,,
+Feb NAC 2026,pool_10,1,LIU Ethan,7,HAN Changhee,4,pool,V5,1,5,5,0,,2675.0,,1,2,0.0,0.0
+Feb NAC 2026,pool_10,1,LIU Ethan,5,CHEN Ethan,8,pool,D1,0,1,5,-4,,2527.0,,0,3,1.0,0.5
+Feb NAC 2026,pool_10,1,LIU Ethan,3,WANG Elijah (QiChen),12,pool,D2,0,2,5,-3,,2245.0,,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,1,LIU Ethan,6,YIN Zixin (Gavin),16,pool,D3,0,3,5,-2,,2005.0,,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,1,LIU Ethan,2,LO Conrad,20,pool,D3,0,3,5,-2,,3212.0,,0,6,0.0,0.0
+Feb NAC 2026,pool_10,2,LO Conrad,5,CHEN Ethan,2,pool,V5,1,5,5,0,3212.0,2527.0,685.0,1,1,,
+Feb NAC 2026,pool_10,2,LO Conrad,3,WANG Elijah (QiChen),6,pool,V5,1,5,5,0,3212.0,2245.0,967.0,1,2,1.0,1.0
+Feb NAC 2026,pool_10,2,LO Conrad,6,YIN Zixin (Gavin),10,pool,V5,1,5,5,0,3212.0,2005.0,1207.0,1,3,1.0,1.0
+Feb NAC 2026,pool_10,2,LO Conrad,7,HAN Changhee,14,pool,V5,1,5,5,0,3212.0,2675.0,537.0,1,4,1.0,1.0
+Feb NAC 2026,pool_10,2,LO Conrad,4,LE Jacob H.,17,pool,D4,0,4,5,-1,3212.0,2542.0,670.0,0,5,1.0,1.0
+Feb NAC 2026,pool_10,2,LO Conrad,1,LIU Ethan,20,pool,V5,1,5,5,0,3212.0,,,1,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),6,YIN Zixin (Gavin),3,pool,D2,0,2,5,-3,2245.0,2005.0,240.0,0,1,,
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),2,LO Conrad,6,pool,D3,0,3,5,-2,2245.0,3212.0,-967.0,0,2,0.0,0.0
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),4,LE Jacob H.,9,pool,V5,1,5,5,0,2245.0,2542.0,-297.0,1,3,0.0,0.0
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),1,LIU Ethan,12,pool,V5,1,5,5,0,2245.0,,,1,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),5,CHEN Ethan,15,pool,D2,0,2,5,-3,2245.0,2527.0,-282.0,0,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_10,3,WANG Elijah (QiChen),7,HAN Changhee,18,pool,D3,0,3,5,-2,2245.0,2675.0,-430.0,0,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),3,WANG Elijah (QiChen),3,pool,V5,1,5,5,0,2005.0,2245.0,-240.0,1,1,,
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),7,HAN Changhee,7,pool,D3,0,3,5,-2,2005.0,2675.0,-670.0,0,2,1.0,1.0
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),2,LO Conrad,10,pool,D0,0,0,5,-5,2005.0,3212.0,-1207.0,0,3,0.0,0.5
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),4,LE Jacob H.,13,pool,D2,0,2,5,-3,2005.0,2542.0,-537.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),1,LIU Ethan,16,pool,V5,1,5,5,0,2005.0,,,1,5,0.0,0.0
+Feb NAC 2026,pool_10,6,YIN Zixin (Gavin),5,CHEN Ethan,19,pool,D2,0,2,5,-3,2005.0,2527.0,-522.0,0,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_11,5,CO Dylan,2,NGUYEN Martin,2,pool,V5,1,5,5,0,2888.0,2609.0,279.0,1,1,,
+Feb NAC 2026,pool_11,5,CO Dylan,4,PAN Ethan,5,pool,V5,1,5,5,0,2888.0,2091.0,797.0,1,2,1.0,1.0
+Feb NAC 2026,pool_11,5,CO Dylan,1,SONG Noel,8,pool,V5,1,5,5,0,2888.0,2615.0,273.0,1,3,1.0,1.0
+Feb NAC 2026,pool_11,5,CO Dylan,7,YOU Martin,11,pool,V5,1,5,5,0,2888.0,1711.0,1177.0,1,4,1.0,1.0
+Feb NAC 2026,pool_11,5,CO Dylan,3,ZHONG Maxwell,15,pool,V5,1,5,5,0,2888.0,2250.0,638.0,1,5,1.0,1.0
+Feb NAC 2026,pool_11,5,CO Dylan,6,LIU Aaron,19,pool,V5,1,5,5,0,2888.0,2184.0,704.0,1,6,1.0,1.0
+Feb NAC 2026,pool_11,6,LIU Aaron,3,ZHONG Maxwell,3,pool,V5,1,5,5,0,2184.0,2250.0,-66.0,1,1,,
+Feb NAC 2026,pool_11,6,LIU Aaron,7,YOU Martin,7,pool,V5,1,5,5,0,2184.0,1711.0,473.0,1,2,1.0,1.0
+Feb NAC 2026,pool_11,6,LIU Aaron,2,NGUYEN Martin,10,pool,V5,1,5,5,0,2184.0,2609.0,-425.0,1,3,1.0,1.0
+Feb NAC 2026,pool_11,6,LIU Aaron,4,PAN Ethan,13,pool,D3,0,3,5,-2,2184.0,2091.0,93.0,0,4,1.0,1.0
+Feb NAC 2026,pool_11,6,LIU Aaron,1,SONG Noel,16,pool,D2,0,2,5,-3,2184.0,2615.0,-431.0,0,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_11,6,LIU Aaron,5,CO Dylan,19,pool,D1,0,1,5,-4,2184.0,2888.0,-704.0,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_11,2,NGUYEN Martin,5,CO Dylan,2,pool,D0,0,0,5,-5,2609.0,2888.0,-279.0,0,1,,
+Feb NAC 2026,pool_11,2,NGUYEN Martin,3,ZHONG Maxwell,6,pool,V5,1,5,5,0,2609.0,2250.0,359.0,1,2,0.0,0.0
+Feb NAC 2026,pool_11,2,NGUYEN Martin,6,LIU Aaron,10,pool,D2,0,2,5,-3,2609.0,2184.0,425.0,0,3,1.0,0.5
+Feb NAC 2026,pool_11,2,NGUYEN Martin,7,YOU Martin,14,pool,V5,1,5,5,0,2609.0,1711.0,898.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_11,2,NGUYEN Martin,4,PAN Ethan,17,pool,V5,1,5,5,0,2609.0,2091.0,518.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_11,2,NGUYEN Martin,1,SONG Noel,20,pool,V5,1,5,5,0,2609.0,2615.0,-6.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_11,4,PAN Ethan,1,SONG Noel,1,pool,D0,0,0,5,-5,2091.0,2615.0,-524.0,0,1,,
+Feb NAC 2026,pool_11,4,PAN Ethan,5,CO Dylan,5,pool,D1,0,1,5,-4,2091.0,2888.0,-797.0,0,2,0.0,0.0
+Feb NAC 2026,pool_11,4,PAN Ethan,3,ZHONG Maxwell,9,pool,D3,0,3,5,-2,2091.0,2250.0,-159.0,0,3,0.0,0.0
+Feb NAC 2026,pool_11,4,PAN Ethan,6,LIU Aaron,13,pool,V5,1,5,5,0,2091.0,2184.0,-93.0,1,4,0.0,0.0
+Feb NAC 2026,pool_11,4,PAN Ethan,2,NGUYEN Martin,17,pool,D2,0,2,5,-3,2091.0,2609.0,-518.0,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_11,4,PAN Ethan,7,YOU Martin,21,pool,V5,1,5,5,0,2091.0,1711.0,380.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_11,1,SONG Noel,4,PAN Ethan,1,pool,V5,1,5,5,0,2615.0,2091.0,524.0,1,1,,
+Feb NAC 2026,pool_11,1,SONG Noel,7,YOU Martin,4,pool,V5,1,5,5,0,2615.0,1711.0,904.0,1,2,1.0,1.0
+Feb NAC 2026,pool_11,1,SONG Noel,5,CO Dylan,8,pool,D3,0,3,5,-2,2615.0,2888.0,-273.0,0,3,1.0,1.0
+Feb NAC 2026,pool_11,1,SONG Noel,3,ZHONG Maxwell,12,pool,V5,1,5,5,0,2615.0,2250.0,365.0,1,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_11,1,SONG Noel,6,LIU Aaron,16,pool,V5,1,5,5,0,2615.0,2184.0,431.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_11,1,SONG Noel,2,NGUYEN Martin,20,pool,D2,0,2,5,-3,2615.0,2609.0,6.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_11,7,YOU Martin,1,SONG Noel,4,pool,D1,0,1,5,-4,1711.0,2615.0,-904.0,0,1,,
+Feb NAC 2026,pool_11,7,YOU Martin,6,LIU Aaron,7,pool,D3,0,3,5,-2,1711.0,2184.0,-473.0,0,2,0.0,0.0
+Feb NAC 2026,pool_11,7,YOU Martin,5,CO Dylan,11,pool,D1,0,1,5,-4,1711.0,2888.0,-1177.0,0,3,0.0,0.0
+Feb NAC 2026,pool_11,7,YOU Martin,2,NGUYEN Martin,14,pool,D1,0,1,5,-4,1711.0,2609.0,-898.0,0,4,0.0,0.0
+Feb NAC 2026,pool_11,7,YOU Martin,3,ZHONG Maxwell,18,pool,D2,0,2,5,-3,1711.0,2250.0,-539.0,0,5,0.0,0.0
+Feb NAC 2026,pool_11,7,YOU Martin,4,PAN Ethan,21,pool,D1,0,1,5,-4,1711.0,2091.0,-380.0,0,6,0.0,0.0
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,6,LIU Aaron,3,pool,D4,0,4,5,-1,2250.0,2184.0,66.0,0,1,,
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,2,NGUYEN Martin,6,pool,D1,0,1,5,-4,2250.0,2609.0,-359.0,0,2,0.0,0.0
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,4,PAN Ethan,9,pool,V5,1,5,5,0,2250.0,2091.0,159.0,1,3,0.0,0.0
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,1,SONG Noel,12,pool,D0,0,0,5,-5,2250.0,2615.0,-365.0,0,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,5,CO Dylan,15,pool,D3,0,3,5,-2,2250.0,2888.0,-638.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_11,3,ZHONG Maxwell,7,YOU Martin,18,pool,V5,1,5,5,0,2250.0,1711.0,539.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_12,4,CHENG Ethan,1,ZHANG Jacob,1,pool,V5,1,5,5,0,2654.0,2352.0,302.0,1,1,,
+Feb NAC 2026,pool_12,4,CHENG Ethan,5,NEWMAN Noah,5,pool,V5,1,5,5,0,2654.0,1691.0,963.0,1,2,1.0,1.0
+Feb NAC 2026,pool_12,4,CHENG Ethan,3,QIU Zhaocheng,9,pool,V5,1,5,5,0,2654.0,2426.0,228.0,1,3,1.0,1.0
+Feb NAC 2026,pool_12,4,CHENG Ethan,6,CHO Xzander,13,pool,V5,1,5,5,0,2654.0,1952.0,702.0,1,4,1.0,1.0
+Feb NAC 2026,pool_12,4,CHENG Ethan,2,DOELL Ethan,17,pool,V5,1,5,5,0,2654.0,2603.0,51.0,1,5,1.0,1.0
+Feb NAC 2026,pool_12,4,CHENG Ethan,7,SIU Aiden,21,pool,V5,1,5,5,0,2654.0,3286.0,-632.0,1,6,1.0,1.0
+Feb NAC 2026,pool_12,6,CHO Xzander,3,QIU Zhaocheng,3,pool,D3,0,3,5,-2,1952.0,2426.0,-474.0,0,1,,
+Feb NAC 2026,pool_12,6,CHO Xzander,7,SIU Aiden,7,pool,D2,0,2,5,-3,1952.0,3286.0,-1334.0,0,2,0.0,0.0
+Feb NAC 2026,pool_12,6,CHO Xzander,2,DOELL Ethan,10,pool,D1,0,1,5,-4,1952.0,2603.0,-651.0,0,3,0.0,0.0
+Feb NAC 2026,pool_12,6,CHO Xzander,4,CHENG Ethan,13,pool,D4,0,4,5,-1,1952.0,2654.0,-702.0,0,4,0.0,0.0
+Feb NAC 2026,pool_12,6,CHO Xzander,1,ZHANG Jacob,16,pool,D2,0,2,5,-3,1952.0,2352.0,-400.0,0,5,0.0,0.0
+Feb NAC 2026,pool_12,6,CHO Xzander,5,NEWMAN Noah,19,pool,V5,1,5,5,0,1952.0,1691.0,261.0,1,6,0.0,0.0
+Feb NAC 2026,pool_12,2,DOELL Ethan,5,NEWMAN Noah,2,pool,V5,1,5,5,0,2603.0,1691.0,912.0,1,1,,
+Feb NAC 2026,pool_12,2,DOELL Ethan,3,QIU Zhaocheng,6,pool,D4,0,4,5,-1,2603.0,2426.0,177.0,0,2,1.0,1.0
+Feb NAC 2026,pool_12,2,DOELL Ethan,6,CHO Xzander,10,pool,V5,1,5,5,0,2603.0,1952.0,651.0,1,3,0.0,0.5
+Feb NAC 2026,pool_12,2,DOELL Ethan,7,SIU Aiden,14,pool,D2,0,2,5,-3,2603.0,3286.0,-683.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_12,2,DOELL Ethan,4,CHENG Ethan,17,pool,D2,0,2,5,-3,2603.0,2654.0,-51.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_12,2,DOELL Ethan,1,ZHANG Jacob,20,pool,V5,1,5,5,0,2603.0,2352.0,251.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_12,5,NEWMAN Noah,2,DOELL Ethan,2,pool,D1,0,1,5,-4,1691.0,2603.0,-912.0,0,1,,
+Feb NAC 2026,pool_12,5,NEWMAN Noah,4,CHENG Ethan,5,pool,D2,0,2,5,-3,1691.0,2654.0,-963.0,0,2,0.0,0.0
+Feb NAC 2026,pool_12,5,NEWMAN Noah,1,ZHANG Jacob,8,pool,D2,0,2,5,-3,1691.0,2352.0,-661.0,0,3,0.0,0.0
+Feb NAC 2026,pool_12,5,NEWMAN Noah,7,SIU Aiden,11,pool,D3,0,3,5,-2,1691.0,3286.0,-1595.0,0,4,0.0,0.0
+Feb NAC 2026,pool_12,5,NEWMAN Noah,3,QIU Zhaocheng,15,pool,D2,0,2,5,-3,1691.0,2426.0,-735.0,0,5,0.0,0.0
+Feb NAC 2026,pool_12,5,NEWMAN Noah,6,CHO Xzander,19,pool,D1,0,1,5,-4,1691.0,1952.0,-261.0,0,6,0.0,0.0
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,6,CHO Xzander,3,pool,V5,1,5,5,0,2426.0,1952.0,474.0,1,1,,
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,2,DOELL Ethan,6,pool,V5,1,5,5,0,2426.0,2603.0,-177.0,1,2,1.0,1.0
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,4,CHENG Ethan,9,pool,D3,0,3,5,-2,2426.0,2654.0,-228.0,0,3,1.0,1.0
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,1,ZHANG Jacob,12,pool,D2,0,2,5,-3,2426.0,2352.0,74.0,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,5,NEWMAN Noah,15,pool,V5,1,5,5,0,2426.0,1691.0,735.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_12,3,QIU Zhaocheng,7,SIU Aiden,18,pool,V5,1,5,5,0,2426.0,3286.0,-860.0,1,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_12,7,SIU Aiden,1,ZHANG Jacob,4,pool,V5,1,5,5,0,3286.0,2352.0,934.0,1,1,,
+Feb NAC 2026,pool_12,7,SIU Aiden,6,CHO Xzander,7,pool,V5,1,5,5,0,3286.0,1952.0,1334.0,1,2,1.0,1.0
+Feb NAC 2026,pool_12,7,SIU Aiden,5,NEWMAN Noah,11,pool,V5,1,5,5,0,3286.0,1691.0,1595.0,1,3,1.0,1.0
+Feb NAC 2026,pool_12,7,SIU Aiden,2,DOELL Ethan,14,pool,V5,1,5,5,0,3286.0,2603.0,683.0,1,4,1.0,1.0
+Feb NAC 2026,pool_12,7,SIU Aiden,3,QIU Zhaocheng,18,pool,D4,0,4,5,-1,3286.0,2426.0,860.0,0,5,1.0,1.0
+Feb NAC 2026,pool_12,7,SIU Aiden,4,CHENG Ethan,21,pool,D3,0,3,5,-2,3286.0,2654.0,632.0,0,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_12,1,ZHANG Jacob,4,CHENG Ethan,1,pool,D2,0,2,5,-3,2352.0,2654.0,-302.0,0,1,,
+Feb NAC 2026,pool_12,1,ZHANG Jacob,7,SIU Aiden,4,pool,D1,0,1,5,-4,2352.0,3286.0,-934.0,0,2,0.0,0.0
+Feb NAC 2026,pool_12,1,ZHANG Jacob,5,NEWMAN Noah,8,pool,V5,1,5,5,0,2352.0,1691.0,661.0,1,3,0.0,0.0
+Feb NAC 2026,pool_12,1,ZHANG Jacob,3,QIU Zhaocheng,12,pool,V5,1,5,5,0,2352.0,2426.0,-74.0,1,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_12,1,ZHANG Jacob,6,CHO Xzander,16,pool,V5,1,5,5,0,2352.0,1952.0,400.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_12,1,ZHANG Jacob,2,DOELL Ethan,20,pool,D4,0,4,5,-1,2352.0,2603.0,-251.0,0,6,1.0,1.0
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,3,TIYA BIAYA K.,3,pool,V5,1,5,5,0,2327.0,2893.0,-566.0,1,1,,
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,7,LIU Derek,7,pool,D2,0,2,5,-3,2327.0,2799.0,-472.0,0,2,1.0,1.0
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,2,WEI Qiancheng (Matt),10,pool,D1,0,1,5,-4,2327.0,2903.0,-576.0,0,3,0.0,0.5
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,4,WONG Jacob W.,13,pool,V5,1,5,5,0,2327.0,2065.0,262.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,1,CHEN Matthew,16,pool,D0,0,0,5,-5,2327.0,2732.0,-405.0,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_13,6,ALLEN Henry G.,5,SCHIENEMAN Valentine,19,pool,V5,1,5,5,0,2327.0,1957.0,370.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_13,1,CHEN Matthew,4,WONG Jacob W.,1,pool,V5,1,5,5,0,2732.0,2065.0,667.0,1,1,,
+Feb NAC 2026,pool_13,1,CHEN Matthew,7,LIU Derek,4,pool,D1,0,1,5,-4,2732.0,2799.0,-67.0,0,2,1.0,1.0
+Feb NAC 2026,pool_13,1,CHEN Matthew,5,SCHIENEMAN Valentine,8,pool,V5,1,5,5,0,2732.0,1957.0,775.0,1,3,0.0,0.5
+Feb NAC 2026,pool_13,1,CHEN Matthew,3,TIYA BIAYA K.,12,pool,V5,1,5,5,0,2732.0,2893.0,-161.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_13,1,CHEN Matthew,6,ALLEN Henry G.,16,pool,V5,1,5,5,0,2732.0,2327.0,405.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_13,1,CHEN Matthew,2,WEI Qiancheng (Matt),20,pool,V5,1,5,5,0,2732.0,2903.0,-171.0,1,6,1.0,1.0
+Feb NAC 2026,pool_13,7,LIU Derek,1,CHEN Matthew,4,pool,V5,1,5,5,0,2799.0,2732.0,67.0,1,1,,
+Feb NAC 2026,pool_13,7,LIU Derek,6,ALLEN Henry G.,7,pool,V5,1,5,5,0,2799.0,2327.0,472.0,1,2,1.0,1.0
+Feb NAC 2026,pool_13,7,LIU Derek,5,SCHIENEMAN Valentine,11,pool,V5,1,5,5,0,2799.0,1957.0,842.0,1,3,1.0,1.0
+Feb NAC 2026,pool_13,7,LIU Derek,2,WEI Qiancheng (Matt),14,pool,D4,0,4,5,-1,2799.0,2903.0,-104.0,0,4,1.0,1.0
+Feb NAC 2026,pool_13,7,LIU Derek,3,TIYA BIAYA K.,18,pool,V5,1,5,5,0,2799.0,2893.0,-94.0,1,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_13,7,LIU Derek,4,WONG Jacob W.,21,pool,V5,1,5,5,0,2799.0,2065.0,734.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,2,WEI Qiancheng (Matt),2,pool,D2,0,2,5,-3,1957.0,2903.0,-946.0,0,1,,
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,4,WONG Jacob W.,5,pool,D4,0,4,5,-1,1957.0,2065.0,-108.0,0,2,0.0,0.0
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,1,CHEN Matthew,8,pool,D1,0,1,5,-4,1957.0,2732.0,-775.0,0,3,0.0,0.0
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,7,LIU Derek,11,pool,D3,0,3,5,-2,1957.0,2799.0,-842.0,0,4,0.0,0.0
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,3,TIYA BIAYA K.,15,pool,D1,0,1,5,-4,1957.0,2893.0,-936.0,0,5,0.0,0.0
+Feb NAC 2026,pool_13,5,SCHIENEMAN Valentine,6,ALLEN Henry G.,19,pool,D0,0,0,5,-5,1957.0,2327.0,-370.0,0,6,0.0,0.0
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,6,ALLEN Henry G.,3,pool,D3,0,3,5,-2,2893.0,2327.0,566.0,0,1,,
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,2,WEI Qiancheng (Matt),6,pool,D3,0,3,5,-2,2893.0,2903.0,-10.0,0,2,0.0,0.0
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,4,WONG Jacob W.,9,pool,V5,1,5,5,0,2893.0,2065.0,828.0,1,3,0.0,0.0
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,1,CHEN Matthew,12,pool,D2,0,2,5,-3,2893.0,2732.0,161.0,0,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,5,SCHIENEMAN Valentine,15,pool,V5,1,5,5,0,2893.0,1957.0,936.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_13,3,TIYA BIAYA K.,7,LIU Derek,18,pool,D2,0,2,5,-3,2893.0,2799.0,94.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),5,SCHIENEMAN Valentine,2,pool,V5,1,5,5,0,2903.0,1957.0,946.0,1,1,,
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),3,TIYA BIAYA K.,6,pool,V5,1,5,5,0,2903.0,2893.0,10.0,1,2,1.0,1.0
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),6,ALLEN Henry G.,10,pool,V5,1,5,5,0,2903.0,2327.0,576.0,1,3,1.0,1.0
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),7,LIU Derek,14,pool,V5,1,5,5,0,2903.0,2799.0,104.0,1,4,1.0,1.0
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),4,WONG Jacob W.,17,pool,V5,1,5,5,0,2903.0,2065.0,838.0,1,5,1.0,1.0
+Feb NAC 2026,pool_13,2,WEI Qiancheng (Matt),1,CHEN Matthew,20,pool,D2,0,2,5,-3,2903.0,2732.0,171.0,0,6,1.0,1.0
+Feb NAC 2026,pool_13,4,WONG Jacob W.,1,CHEN Matthew,1,pool,D0,0,0,5,-5,2065.0,2732.0,-667.0,0,1,,
+Feb NAC 2026,pool_13,4,WONG Jacob W.,5,SCHIENEMAN Valentine,5,pool,V5,1,5,5,0,2065.0,1957.0,108.0,1,2,0.0,0.0
+Feb NAC 2026,pool_13,4,WONG Jacob W.,3,TIYA BIAYA K.,9,pool,D1,0,1,5,-4,2065.0,2893.0,-828.0,0,3,1.0,0.5
+Feb NAC 2026,pool_13,4,WONG Jacob W.,6,ALLEN Henry G.,13,pool,D0,0,0,5,-5,2065.0,2327.0,-262.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_13,4,WONG Jacob W.,2,WEI Qiancheng (Matt),17,pool,D1,0,1,5,-4,2065.0,2903.0,-838.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_13,4,WONG Jacob W.,7,LIU Derek,21,pool,D1,0,1,5,-4,2065.0,2799.0,-734.0,0,6,0.0,0.0
+Feb NAC 2026,pool_14,4,CHEN Eric,1,LI Kevin,1,pool,D3,0,3,5,-2,,,,0,1,,
+Feb NAC 2026,pool_14,4,CHEN Eric,5,WU David,5,pool,D2,0,2,5,-3,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_14,4,CHEN Eric,3,YANG Ryan,9,pool,D1,0,1,5,-4,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_14,4,CHEN Eric,6,LIANG Kevin,13,pool,V5,1,5,5,0,,,,1,4,0.0,0.0
+Feb NAC 2026,pool_14,4,CHEN Eric,2,ZHOU Brian,17,pool,D2,0,2,5,-3,,,,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_14,4,CHEN Eric,7,XU Jason,21,pool,D3,0,3,5,-2,,,,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_14,1,LI Kevin,4,CHEN Eric,1,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_14,1,LI Kevin,7,XU Jason,4,pool,D4,0,4,5,-1,,,,0,2,1.0,1.0
+Feb NAC 2026,pool_14,1,LI Kevin,5,WU David,8,pool,D1,0,1,5,-4,,,,0,3,0.0,0.5
+Feb NAC 2026,pool_14,1,LI Kevin,3,YANG Ryan,12,pool,D3,0,3,5,-2,,,,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_14,1,LI Kevin,6,LIANG Kevin,16,pool,V5,1,5,5,0,,,,1,5,0.0,0.0
+Feb NAC 2026,pool_14,1,LI Kevin,2,ZHOU Brian,20,pool,D2,0,2,5,-3,,,,0,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_14,6,LIANG Kevin,3,YANG Ryan,3,pool,D2,0,2,5,-3,,,,0,1,,
+Feb NAC 2026,pool_14,6,LIANG Kevin,7,XU Jason,7,pool,D1,0,1,5,-4,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_14,6,LIANG Kevin,2,ZHOU Brian,10,pool,D3,0,3,5,-2,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_14,6,LIANG Kevin,4,CHEN Eric,13,pool,D4,0,4,5,-1,,,,0,4,0.0,0.0
+Feb NAC 2026,pool_14,6,LIANG Kevin,1,LI Kevin,16,pool,D4,0,4,5,-1,,,,0,5,0.0,0.0
+Feb NAC 2026,pool_14,6,LIANG Kevin,5,WU David,19,pool,V5,1,5,5,0,,,,1,6,0.0,0.0
+Feb NAC 2026,pool_14,5,WU David,2,ZHOU Brian,2,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_14,5,WU David,4,CHEN Eric,5,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_14,5,WU David,1,LI Kevin,8,pool,V5,1,5,5,0,,,,1,3,1.0,1.0
+Feb NAC 2026,pool_14,5,WU David,7,XU Jason,11,pool,V5,1,5,5,0,,,,1,4,1.0,1.0
+Feb NAC 2026,pool_14,5,WU David,3,YANG Ryan,15,pool,D2,0,2,5,-3,,,,0,5,1.0,1.0
+Feb NAC 2026,pool_14,5,WU David,6,LIANG Kevin,19,pool,D3,0,3,5,-2,,,,0,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_14,7,XU Jason,1,LI Kevin,4,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_14,7,XU Jason,6,LIANG Kevin,7,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_14,7,XU Jason,5,WU David,11,pool,D2,0,2,5,-3,,,,0,3,1.0,1.0
+Feb NAC 2026,pool_14,7,XU Jason,2,ZHOU Brian,14,pool,D2,0,2,5,-3,,,,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_14,7,XU Jason,3,YANG Ryan,18,pool,D3,0,3,5,-2,,,,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_14,7,XU Jason,4,CHEN Eric,21,pool,V5,1,5,5,0,,,,1,6,0.0,0.0
+Feb NAC 2026,pool_14,3,YANG Ryan,6,LIANG Kevin,3,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_14,3,YANG Ryan,2,ZHOU Brian,6,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_14,3,YANG Ryan,4,CHEN Eric,9,pool,V5,1,5,5,0,,,,1,3,1.0,1.0
+Feb NAC 2026,pool_14,3,YANG Ryan,1,LI Kevin,12,pool,V5,1,5,5,0,,,,1,4,1.0,1.0
+Feb NAC 2026,pool_14,3,YANG Ryan,5,WU David,15,pool,V5,1,5,5,0,,,,1,5,1.0,1.0
+Feb NAC 2026,pool_14,3,YANG Ryan,7,XU Jason,18,pool,V5,1,5,5,0,,,,1,6,1.0,1.0
+Feb NAC 2026,pool_14,2,ZHOU Brian,5,WU David,2,pool,D2,0,2,5,-3,,,,0,1,,
+Feb NAC 2026,pool_14,2,ZHOU Brian,3,YANG Ryan,6,pool,D4,0,4,5,-1,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_14,2,ZHOU Brian,6,LIANG Kevin,10,pool,V5,1,5,5,0,,,,1,3,0.0,0.0
+Feb NAC 2026,pool_14,2,ZHOU Brian,7,XU Jason,14,pool,V5,1,5,5,0,,,,1,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_14,2,ZHOU Brian,4,CHEN Eric,17,pool,V5,1,5,5,0,,,,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_14,2,ZHOU Brian,1,LI Kevin,20,pool,V5,1,5,5,0,,,,1,6,1.0,1.0
+Feb NAC 2026,pool_15,4,CHO Daniel,1,KIM Daniel,1,pool,D2,0,2,5,-3,,1992.0,,0,1,,
+Feb NAC 2026,pool_15,4,CHO Daniel,5,HAN Jason,5,pool,D3,0,3,5,-2,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_15,4,CHO Daniel,3,LEE Kevin,9,pool,D4,0,4,5,-1,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_15,4,CHO Daniel,6,JUNG Brian,13,pool,V5,1,5,5,0,,,,1,4,0.0,0.0
+Feb NAC 2026,pool_15,4,CHO Daniel,2,PARK Andrew,17,pool,V5,1,5,5,0,,,,1,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_15,4,CHO Daniel,7,LIM Eric,21,pool,V5,1,5,5,0,,,,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,5,HAN Jason,2,PARK Andrew,2,pool,D3,0,3,5,-2,,,,0,1,,
+Feb NAC 2026,pool_15,5,HAN Jason,4,CHO Daniel,5,pool,V5,1,5,5,0,,,,1,2,0.0,0.0
+Feb NAC 2026,pool_15,5,HAN Jason,1,KIM Daniel,8,pool,V5,1,5,5,0,,1992.0,,1,3,1.0,0.5
+Feb NAC 2026,pool_15,5,HAN Jason,7,LIM Eric,11,pool,V5,1,5,5,0,,,,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,5,HAN Jason,3,LEE Kevin,15,pool,D2,0,2,5,-3,,,,0,5,1.0,1.0
+Feb NAC 2026,pool_15,5,HAN Jason,6,JUNG Brian,19,pool,D4,0,4,5,-1,,,,0,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_15,6,JUNG Brian,3,LEE Kevin,3,pool,D3,0,3,5,-2,,,,0,1,,
+Feb NAC 2026,pool_15,6,JUNG Brian,7,LIM Eric,7,pool,V5,1,5,5,0,,,,1,2,0.0,0.0
+Feb NAC 2026,pool_15,6,JUNG Brian,2,PARK Andrew,10,pool,V5,1,5,5,0,,,,1,3,1.0,0.5
+Feb NAC 2026,pool_15,6,JUNG Brian,4,CHO Daniel,13,pool,D2,0,2,5,-3,,,,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,6,JUNG Brian,1,KIM Daniel,16,pool,D3,0,3,5,-2,,1992.0,,0,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_15,6,JUNG Brian,5,HAN Jason,19,pool,V5,1,5,5,0,,,,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_15,1,KIM Daniel,4,CHO Daniel,1,pool,V5,1,5,5,0,1992.0,,,1,1,,
+Feb NAC 2026,pool_15,1,KIM Daniel,7,LIM Eric,4,pool,V5,1,5,5,0,1992.0,,,1,2,1.0,1.0
+Feb NAC 2026,pool_15,1,KIM Daniel,5,HAN Jason,8,pool,D2,0,2,5,-3,1992.0,,,0,3,1.0,1.0
+Feb NAC 2026,pool_15,1,KIM Daniel,3,LEE Kevin,12,pool,D3,0,3,5,-2,1992.0,,,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_15,1,KIM Daniel,6,JUNG Brian,16,pool,V5,1,5,5,0,1992.0,,,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_15,1,KIM Daniel,2,PARK Andrew,20,pool,V5,1,5,5,0,1992.0,,,1,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_15,3,LEE Kevin,6,JUNG Brian,3,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_15,3,LEE Kevin,2,PARK Andrew,6,pool,D3,0,3,5,-2,,,,0,2,1.0,1.0
+Feb NAC 2026,pool_15,3,LEE Kevin,4,CHO Daniel,9,pool,V5,1,5,5,0,,,,1,3,0.0,0.5
+Feb NAC 2026,pool_15,3,LEE Kevin,1,KIM Daniel,12,pool,V5,1,5,5,0,,1992.0,,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,3,LEE Kevin,5,HAN Jason,15,pool,V5,1,5,5,0,,,,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,3,LEE Kevin,7,LIM Eric,18,pool,D2,0,2,5,-3,,,,0,6,1.0,1.0
+Feb NAC 2026,pool_15,7,LIM Eric,1,KIM Daniel,4,pool,D1,0,1,5,-4,,1992.0,,0,1,,
+Feb NAC 2026,pool_15,7,LIM Eric,6,JUNG Brian,7,pool,D4,0,4,5,-1,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_15,7,LIM Eric,5,HAN Jason,11,pool,D3,0,3,5,-2,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_15,7,LIM Eric,2,PARK Andrew,14,pool,D3,0,3,5,-2,,,,0,4,0.0,0.0
+Feb NAC 2026,pool_15,7,LIM Eric,3,LEE Kevin,18,pool,V5,1,5,5,0,,,,1,5,0.0,0.0
+Feb NAC 2026,pool_15,7,LIM Eric,4,CHO Daniel,21,pool,D2,0,2,5,-3,,,,0,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_15,2,PARK Andrew,5,HAN Jason,2,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_15,2,PARK Andrew,3,LEE Kevin,6,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_15,2,PARK Andrew,6,JUNG Brian,10,pool,D4,0,4,5,-1,,,,0,3,1.0,1.0
+Feb NAC 2026,pool_15,2,PARK Andrew,7,LIM Eric,14,pool,V5,1,5,5,0,,,,1,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_15,2,PARK Andrew,4,CHO Daniel,17,pool,D3,0,3,5,-2,,,,0,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_15,2,PARK Andrew,1,KIM Daniel,20,pool,D2,0,2,5,-3,,1992.0,,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_2,7,BARRETT Austin,1,ZHAO Nathan,4,pool,D2,0,2,5,-3,1868.0,2070.0,-202.0,0,1,,
+Feb NAC 2026,pool_2,7,BARRETT Austin,6,JEON Caleb A.,7,pool,D1,0,1,5,-4,1868.0,3073.0,-1205.0,0,2,0.0,0.0
+Feb NAC 2026,pool_2,7,BARRETT Austin,5,LO Preston,11,pool,D0,0,0,5,-5,1868.0,2611.0,-743.0,0,3,0.0,0.0
+Feb NAC 2026,pool_2,7,BARRETT Austin,2,SHEVCHENKO Kostiantyn,14,pool,D3,0,3,5,-2,1868.0,2362.0,-494.0,0,4,0.0,0.0
+Feb NAC 2026,pool_2,7,BARRETT Austin,3,YAO Bradley,18,pool,D1,0,1,5,-4,1868.0,2644.0,-776.0,0,5,0.0,0.0
+Feb NAC 2026,pool_2,7,BARRETT Austin,4,CHA James,21,pool,D2,0,2,5,-3,1868.0,2208.0,-340.0,0,6,0.0,0.0
+Feb NAC 2026,pool_2,4,CHA James,1,ZHAO Nathan,1,pool,V5,1,5,5,0,2208.0,2070.0,138.0,1,1,,
+Feb NAC 2026,pool_2,4,CHA James,5,LO Preston,5,pool,V5,1,5,5,0,2208.0,2611.0,-403.0,1,2,1.0,1.0
+Feb NAC 2026,pool_2,4,CHA James,3,YAO Bradley,9,pool,D1,0,1,5,-4,2208.0,2644.0,-436.0,0,3,1.0,1.0
+Feb NAC 2026,pool_2,4,CHA James,6,JEON Caleb A.,13,pool,D2,0,2,5,-3,2208.0,3073.0,-865.0,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_2,4,CHA James,2,SHEVCHENKO Kostiantyn,17,pool,D3,0,3,5,-2,2208.0,2362.0,-154.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_2,4,CHA James,7,BARRETT Austin,21,pool,V5,1,5,5,0,2208.0,1868.0,340.0,1,6,0.0,0.0
+Feb NAC 2026,pool_2,6,JEON Caleb A.,3,YAO Bradley,3,pool,D1,0,1,5,-4,3073.0,2644.0,429.0,0,1,,
+Feb NAC 2026,pool_2,6,JEON Caleb A.,7,BARRETT Austin,7,pool,V5,1,5,5,0,3073.0,1868.0,1205.0,1,2,0.0,0.0
+Feb NAC 2026,pool_2,6,JEON Caleb A.,2,SHEVCHENKO Kostiantyn,10,pool,V5,1,5,5,0,3073.0,2362.0,711.0,1,3,1.0,0.5
+Feb NAC 2026,pool_2,6,JEON Caleb A.,4,CHA James,13,pool,V5,1,5,5,0,3073.0,2208.0,865.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_2,6,JEON Caleb A.,1,ZHAO Nathan,16,pool,V5,1,5,5,0,3073.0,2070.0,1003.0,1,5,1.0,1.0
+Feb NAC 2026,pool_2,6,JEON Caleb A.,5,LO Preston,19,pool,D3,0,3,5,-2,3073.0,2611.0,462.0,0,6,1.0,1.0
+Feb NAC 2026,pool_2,5,LO Preston,2,SHEVCHENKO Kostiantyn,2,pool,V5,1,5,5,0,2611.0,2362.0,249.0,1,1,,
+Feb NAC 2026,pool_2,5,LO Preston,4,CHA James,5,pool,D1,0,1,5,-4,2611.0,2208.0,403.0,0,2,1.0,1.0
+Feb NAC 2026,pool_2,5,LO Preston,1,ZHAO Nathan,8,pool,V5,1,5,5,0,2611.0,2070.0,541.0,1,3,0.0,0.5
+Feb NAC 2026,pool_2,5,LO Preston,7,BARRETT Austin,11,pool,V5,1,5,5,0,2611.0,1868.0,743.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_2,5,LO Preston,3,YAO Bradley,15,pool,V5,1,5,5,0,2611.0,2644.0,-33.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_2,5,LO Preston,6,JEON Caleb A.,19,pool,V5,1,5,5,0,2611.0,3073.0,-462.0,1,6,1.0,1.0
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,5,LO Preston,2,pool,D4,0,4,5,-1,2362.0,2611.0,-249.0,0,1,,
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,3,YAO Bradley,6,pool,D2,0,2,5,-3,2362.0,2644.0,-282.0,0,2,0.0,0.0
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,6,JEON Caleb A.,10,pool,D2,0,2,5,-3,2362.0,3073.0,-711.0,0,3,0.0,0.0
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,7,BARRETT Austin,14,pool,V5,1,5,5,0,2362.0,1868.0,494.0,1,4,0.0,0.0
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,4,CHA James,17,pool,V5,1,5,5,0,2362.0,2208.0,154.0,1,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_2,2,SHEVCHENKO Kostiantyn,1,ZHAO Nathan,20,pool,V5,1,5,5,0,2362.0,2070.0,292.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_2,3,YAO Bradley,6,JEON Caleb A.,3,pool,V5,1,5,5,0,2644.0,3073.0,-429.0,1,1,,
+Feb NAC 2026,pool_2,3,YAO Bradley,2,SHEVCHENKO Kostiantyn,6,pool,V5,1,5,5,0,2644.0,2362.0,282.0,1,2,1.0,1.0
+Feb NAC 2026,pool_2,3,YAO Bradley,4,CHA James,9,pool,V5,1,5,5,0,2644.0,2208.0,436.0,1,3,1.0,1.0
+Feb NAC 2026,pool_2,3,YAO Bradley,1,ZHAO Nathan,12,pool,V5,1,5,5,0,2644.0,2070.0,574.0,1,4,1.0,1.0
+Feb NAC 2026,pool_2,3,YAO Bradley,5,LO Preston,15,pool,D1,0,1,5,-4,2644.0,2611.0,33.0,0,5,1.0,1.0
+Feb NAC 2026,pool_2,3,YAO Bradley,7,BARRETT Austin,18,pool,V5,1,5,5,0,2644.0,1868.0,776.0,1,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_2,1,ZHAO Nathan,4,CHA James,1,pool,D4,0,4,5,-1,2070.0,2208.0,-138.0,0,1,,
+Feb NAC 2026,pool_2,1,ZHAO Nathan,7,BARRETT Austin,4,pool,V5,1,5,5,0,2070.0,1868.0,202.0,1,2,0.0,0.0
+Feb NAC 2026,pool_2,1,ZHAO Nathan,5,LO Preston,8,pool,D4,0,4,5,-1,2070.0,2611.0,-541.0,0,3,1.0,0.5
+Feb NAC 2026,pool_2,1,ZHAO Nathan,3,YAO Bradley,12,pool,D2,0,2,5,-3,2070.0,2644.0,-574.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_2,1,ZHAO Nathan,6,JEON Caleb A.,16,pool,D3,0,3,5,-2,2070.0,3073.0,-1003.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_2,1,ZHAO Nathan,2,SHEVCHENKO Kostiantyn,20,pool,D0,0,0,5,-5,2070.0,2362.0,-292.0,0,6,0.0,0.0
+Feb NAC 2026,pool_20,4,CHEN Ryan,1,ZHANG Leo,1,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_20,4,CHEN Ryan,5,XU Ethan,5,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_20,4,CHEN Ryan,3,WANG Kevin,9,pool,D3,0,3,5,-2,,,,0,3,1.0,1.0
+Feb NAC 2026,pool_20,4,CHEN Ryan,6,YANG Jason,13,pool,D2,0,2,5,-3,,,,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_20,4,CHEN Ryan,2,LI Eric,17,pool,V5,1,5,5,0,,,,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,4,CHEN Ryan,7,HU David,21,pool,V5,1,5,5,0,,,,1,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_20,7,HU David,1,ZHANG Leo,4,pool,D2,0,2,5,-3,,,,0,1,,
+Feb NAC 2026,pool_20,7,HU David,6,YANG Jason,7,pool,D4,0,4,5,-1,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_20,7,HU David,5,XU Ethan,11,pool,D3,0,3,5,-2,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_20,7,HU David,2,LI Eric,14,pool,V5,1,5,5,0,,,,1,4,0.0,0.0
+Feb NAC 2026,pool_20,7,HU David,3,WANG Kevin,18,pool,D3,0,3,5,-2,,,,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_20,7,HU David,4,CHEN Ryan,21,pool,D4,0,4,5,-1,,,,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,2,LI Eric,5,XU Ethan,2,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_20,2,LI Eric,3,WANG Kevin,6,pool,V5,1,5,5,0,,,,1,2,1.0,1.0
+Feb NAC 2026,pool_20,2,LI Eric,6,YANG Jason,10,pool,V5,1,5,5,0,,,,1,3,1.0,1.0
+Feb NAC 2026,pool_20,2,LI Eric,7,HU David,14,pool,D2,0,2,5,-3,,,,0,4,1.0,1.0
+Feb NAC 2026,pool_20,2,LI Eric,4,CHEN Ryan,17,pool,D3,0,3,5,-2,,,,0,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_20,2,LI Eric,1,ZHANG Leo,20,pool,V5,1,5,5,0,,,,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,3,WANG Kevin,6,YANG Jason,3,pool,V5,1,5,5,0,,,,1,1,,
+Feb NAC 2026,pool_20,3,WANG Kevin,2,LI Eric,6,pool,D3,0,3,5,-2,,,,0,2,1.0,1.0
+Feb NAC 2026,pool_20,3,WANG Kevin,4,CHEN Ryan,9,pool,V5,1,5,5,0,,,,1,3,0.0,0.5
+Feb NAC 2026,pool_20,3,WANG Kevin,1,ZHANG Leo,12,pool,D2,0,2,5,-3,,,,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_20,3,WANG Kevin,5,XU Ethan,15,pool,D4,0,4,5,-1,,,,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,3,WANG Kevin,7,HU David,18,pool,V5,1,5,5,0,,,,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,5,XU Ethan,2,LI Eric,2,pool,D2,0,2,5,-3,,,,0,1,,
+Feb NAC 2026,pool_20,5,XU Ethan,4,CHEN Ryan,5,pool,D4,0,4,5,-1,,,,0,2,0.0,0.0
+Feb NAC 2026,pool_20,5,XU Ethan,1,ZHANG Leo,8,pool,D3,0,3,5,-2,,,,0,3,0.0,0.0
+Feb NAC 2026,pool_20,5,XU Ethan,7,HU David,11,pool,V5,1,5,5,0,,,,1,4,0.0,0.0
+Feb NAC 2026,pool_20,5,XU Ethan,3,WANG Kevin,15,pool,V5,1,5,5,0,,,,1,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_20,5,XU Ethan,6,YANG Jason,19,pool,V5,1,5,5,0,,,,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_20,6,YANG Jason,3,WANG Kevin,3,pool,D4,0,4,5,-1,,,,0,1,,
+Feb NAC 2026,pool_20,6,YANG Jason,7,HU David,7,pool,V5,1,5,5,0,,,,1,2,0.0,0.0
+Feb NAC 2026,pool_20,6,YANG Jason,2,LI Eric,10,pool,D3,0,3,5,-2,,,,0,3,1.0,0.5
+Feb NAC 2026,pool_20,6,YANG Jason,4,CHEN Ryan,13,pool,V5,1,5,5,0,,,,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_20,6,YANG Jason,1,ZHANG Leo,16,pool,V5,1,5,5,0,,,,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_20,6,YANG Jason,5,XU Ethan,19,pool,D2,0,2,5,-3,,,,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_20,1,ZHANG Leo,4,CHEN Ryan,1,pool,D2,0,2,5,-3,,,,0,1,,
+Feb NAC 2026,pool_20,1,ZHANG Leo,7,HU David,4,pool,V5,1,5,5,0,,,,1,2,0.0,0.0
+Feb NAC 2026,pool_20,1,ZHANG Leo,5,XU Ethan,8,pool,V5,1,5,5,0,,,,1,3,1.0,0.5
+Feb NAC 2026,pool_20,1,ZHANG Leo,3,WANG Kevin,12,pool,V5,1,5,5,0,,,,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_20,1,ZHANG Leo,6,YANG Jason,16,pool,D4,0,4,5,-1,,,,0,5,1.0,1.0
+Feb NAC 2026,pool_20,1,ZHANG Leo,2,LI Eric,20,pool,D3,0,3,5,-2,,,,0,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_6,4,BAKSHI Aman,1,BAS Liam,1,pool,D1,0,1,5,-4,1904.0,3261.0,-1357.0,0,1,,
+Feb NAC 2026,pool_6,4,BAKSHI Aman,5,LI Aaron,5,pool,D2,0,2,5,-3,1904.0,2594.0,-690.0,0,2,0.0,0.0
+Feb NAC 2026,pool_6,4,BAKSHI Aman,3,TEH DJ,9,pool,D4,0,4,5,-1,1904.0,,,0,3,0.0,0.0
+Feb NAC 2026,pool_6,4,BAKSHI Aman,6,XU Andy P.,13,pool,D3,0,3,5,-2,1904.0,2593.0,-689.0,0,4,0.0,0.0
+Feb NAC 2026,pool_6,4,BAKSHI Aman,2,HUANG Jonathan,17,pool,D2,0,2,5,-3,1904.0,2456.0,-552.0,0,5,0.0,0.0
+Feb NAC 2026,pool_6,4,BAKSHI Aman,7,MORROW Brenden,21,pool,D3,0,3,5,-2,1904.0,2394.0,-490.0,0,6,0.0,0.0
+Feb NAC 2026,pool_6,1,BAS Liam,4,BAKSHI Aman,1,pool,V5,1,5,5,0,3261.0,1904.0,1357.0,1,1,,
+Feb NAC 2026,pool_6,1,BAS Liam,7,MORROW Brenden,4,pool,V5,1,5,5,0,3261.0,2394.0,867.0,1,2,1.0,1.0
+Feb NAC 2026,pool_6,1,BAS Liam,5,LI Aaron,8,pool,D4,0,4,5,-1,3261.0,2594.0,667.0,0,3,1.0,1.0
+Feb NAC 2026,pool_6,1,BAS Liam,3,TEH DJ,12,pool,V5,1,5,5,0,3261.0,,,1,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_6,1,BAS Liam,6,XU Andy P.,16,pool,V5,1,5,5,0,3261.0,2593.0,668.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_6,1,BAS Liam,2,HUANG Jonathan,20,pool,V5,1,5,5,0,3261.0,2456.0,805.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_6,2,HUANG Jonathan,5,LI Aaron,2,pool,V5,1,5,5,0,2456.0,2594.0,-138.0,1,1,,
+Feb NAC 2026,pool_6,2,HUANG Jonathan,3,TEH DJ,6,pool,V5,1,5,5,0,2456.0,,,1,2,1.0,1.0
+Feb NAC 2026,pool_6,2,HUANG Jonathan,6,XU Andy P.,10,pool,D3,0,3,5,-2,2456.0,2593.0,-137.0,0,3,1.0,1.0
+Feb NAC 2026,pool_6,2,HUANG Jonathan,7,MORROW Brenden,14,pool,D4,0,4,5,-1,2456.0,2394.0,62.0,0,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_6,2,HUANG Jonathan,4,BAKSHI Aman,17,pool,V5,1,5,5,0,2456.0,1904.0,552.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_6,2,HUANG Jonathan,1,BAS Liam,20,pool,D4,0,4,5,-1,2456.0,3261.0,-805.0,0,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_6,5,LI Aaron,2,HUANG Jonathan,2,pool,D3,0,3,5,-2,2594.0,2456.0,138.0,0,1,,
+Feb NAC 2026,pool_6,5,LI Aaron,4,BAKSHI Aman,5,pool,V5,1,5,5,0,2594.0,1904.0,690.0,1,2,0.0,0.0
+Feb NAC 2026,pool_6,5,LI Aaron,1,BAS Liam,8,pool,V5,1,5,5,0,2594.0,3261.0,-667.0,1,3,1.0,0.5
+Feb NAC 2026,pool_6,5,LI Aaron,7,MORROW Brenden,11,pool,D3,0,3,5,-2,2594.0,2394.0,200.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_6,5,LI Aaron,3,TEH DJ,15,pool,V5,1,5,5,0,2594.0,,,1,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_6,5,LI Aaron,6,XU Andy P.,19,pool,D3,0,3,5,-2,2594.0,2593.0,1.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_6,7,MORROW Brenden,1,BAS Liam,4,pool,D3,0,3,5,-2,2394.0,3261.0,-867.0,0,1,,
+Feb NAC 2026,pool_6,7,MORROW Brenden,6,XU Andy P.,7,pool,D4,0,4,5,-1,2394.0,2593.0,-199.0,0,2,0.0,0.0
+Feb NAC 2026,pool_6,7,MORROW Brenden,5,LI Aaron,11,pool,V5,1,5,5,0,2394.0,2594.0,-200.0,1,3,0.0,0.0
+Feb NAC 2026,pool_6,7,MORROW Brenden,2,HUANG Jonathan,14,pool,V5,1,5,5,0,2394.0,2456.0,-62.0,1,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_6,7,MORROW Brenden,3,TEH DJ,18,pool,V5,1,5,5,0,2394.0,,,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_6,7,MORROW Brenden,4,BAKSHI Aman,21,pool,V5,1,5,5,0,2394.0,1904.0,490.0,1,6,1.0,1.0
+Feb NAC 2026,pool_6,3,TEH DJ,6,XU Andy P.,3,pool,D4,0,4,5,-1,,2593.0,,0,1,,
+Feb NAC 2026,pool_6,3,TEH DJ,2,HUANG Jonathan,6,pool,D1,0,1,5,-4,,2456.0,,0,2,0.0,0.0
+Feb NAC 2026,pool_6,3,TEH DJ,4,BAKSHI Aman,9,pool,V5,1,5,5,0,,1904.0,,1,3,0.0,0.0
+Feb NAC 2026,pool_6,3,TEH DJ,1,BAS Liam,12,pool,D1,0,1,5,-4,,3261.0,,0,4,1.0,0.3333333333333333
+Feb NAC 2026,pool_6,3,TEH DJ,5,LI Aaron,15,pool,D4,0,4,5,-1,,2594.0,,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_6,3,TEH DJ,7,MORROW Brenden,18,pool,D0,0,0,5,-5,,2394.0,,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_6,6,XU Andy P.,3,TEH DJ,3,pool,V5,1,5,5,0,2593.0,,,1,1,,
+Feb NAC 2026,pool_6,6,XU Andy P.,7,MORROW Brenden,7,pool,V5,1,5,5,0,2593.0,2394.0,199.0,1,2,1.0,1.0
+Feb NAC 2026,pool_6,6,XU Andy P.,2,HUANG Jonathan,10,pool,V5,1,5,5,0,2593.0,2456.0,137.0,1,3,1.0,1.0
+Feb NAC 2026,pool_6,6,XU Andy P.,4,BAKSHI Aman,13,pool,V5,1,5,5,0,2593.0,1904.0,689.0,1,4,1.0,1.0
+Feb NAC 2026,pool_6,6,XU Andy P.,1,BAS Liam,16,pool,D2,0,2,5,-3,2593.0,3261.0,-668.0,0,5,1.0,1.0
+Feb NAC 2026,pool_6,6,XU Andy P.,5,LI Aaron,19,pool,V5,1,5,5,0,2593.0,2594.0,-1.0,1,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,2,SISINNI Riccardo,2,pool,V5,1,5,5,0,2718.0,3071.0,-353.0,1,1,,
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,4,WAYBRIGHT Matteo,5,pool,V5,1,5,5,0,2718.0,1811.0,907.0,1,2,1.0,1.0
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,1,GULCHIN Mark (Yerma),8,pool,V5,1,5,5,0,2718.0,2453.0,265.0,1,3,1.0,1.0
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,7,WONG Garrick G.,11,pool,D2,0,2,5,-3,2718.0,2690.0,28.0,0,4,1.0,1.0
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,3,PARK William,15,pool,D3,0,3,5,-2,2718.0,2089.0,629.0,0,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_7,5,DINSAY Kristjan,6,XIE Buster,19,pool,V5,1,5,5,0,2718.0,2470.0,248.0,1,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),4,WAYBRIGHT Matteo,1,pool,V5,1,5,5,0,2453.0,1811.0,642.0,1,1,,
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),7,WONG Garrick G.,4,pool,V5,1,5,5,0,2453.0,2690.0,-237.0,1,2,1.0,1.0
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),5,DINSAY Kristjan,8,pool,D2,0,2,5,-3,2453.0,2718.0,-265.0,0,3,1.0,1.0
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),3,PARK William,12,pool,V5,1,5,5,0,2453.0,2089.0,364.0,1,4,0.0,0.6666666666666666
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),6,XIE Buster,16,pool,V5,1,5,5,0,2453.0,2470.0,-17.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,1,GULCHIN Mark (Yerma),2,SISINNI Riccardo,20,pool,D3,0,3,5,-2,2453.0,3071.0,-618.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,3,PARK William,6,XIE Buster,3,pool,V3,1,5,3,2,2089.0,2470.0,-381.0,1,1,,
+Feb NAC 2026,pool_7,3,PARK William,2,SISINNI Riccardo,6,pool,D3,0,3,5,-2,2089.0,3071.0,-982.0,0,2,1.0,1.0
+Feb NAC 2026,pool_7,3,PARK William,4,WAYBRIGHT Matteo,9,pool,V5,1,5,5,0,2089.0,1811.0,278.0,1,3,0.0,0.5
+Feb NAC 2026,pool_7,3,PARK William,1,GULCHIN Mark (Yerma),12,pool,D1,0,1,5,-4,2089.0,2453.0,-364.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,3,PARK William,5,DINSAY Kristjan,15,pool,V5,1,5,5,0,2089.0,2718.0,-629.0,1,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_7,3,PARK William,7,WONG Garrick G.,18,pool,D0,0,0,5,-5,2089.0,2690.0,-601.0,0,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,5,DINSAY Kristjan,2,pool,D3,0,3,5,-2,3071.0,2718.0,353.0,0,1,,
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,3,PARK William,6,pool,V5,1,5,5,0,3071.0,2089.0,982.0,1,2,0.0,0.0
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,6,XIE Buster,10,pool,V5,1,5,5,0,3071.0,2470.0,601.0,1,3,1.0,0.5
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,7,WONG Garrick G.,14,pool,V5,1,5,5,0,3071.0,2690.0,381.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,4,WAYBRIGHT Matteo,17,pool,V5,1,5,5,0,3071.0,1811.0,1260.0,1,5,1.0,1.0
+Feb NAC 2026,pool_7,2,SISINNI Riccardo,1,GULCHIN Mark (Yerma),20,pool,V5,1,5,5,0,3071.0,2453.0,618.0,1,6,1.0,1.0
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,1,GULCHIN Mark (Yerma),1,pool,D3,0,3,5,-2,1811.0,2453.0,-642.0,0,1,,
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,5,DINSAY Kristjan,5,pool,D2,0,2,5,-3,1811.0,2718.0,-907.0,0,2,0.0,0.0
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,3,PARK William,9,pool,D4,0,4,5,-1,1811.0,2089.0,-278.0,0,3,0.0,0.0
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,6,XIE Buster,13,pool,V5,1,5,5,0,1811.0,2470.0,-659.0,1,4,0.0,0.0
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,2,SISINNI Riccardo,17,pool,D2,0,2,5,-3,1811.0,3071.0,-1260.0,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_7,4,WAYBRIGHT Matteo,7,WONG Garrick G.,21,pool,D2,0,2,5,-3,1811.0,2690.0,-879.0,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_7,7,WONG Garrick G.,1,GULCHIN Mark (Yerma),4,pool,D1,0,1,5,-4,2690.0,2453.0,237.0,0,1,,
+Feb NAC 2026,pool_7,7,WONG Garrick G.,6,XIE Buster,7,pool,V5,1,5,5,0,2690.0,2470.0,220.0,1,2,0.0,0.0
+Feb NAC 2026,pool_7,7,WONG Garrick G.,5,DINSAY Kristjan,11,pool,V5,1,5,5,0,2690.0,2718.0,-28.0,1,3,1.0,0.5
+Feb NAC 2026,pool_7,7,WONG Garrick G.,2,SISINNI Riccardo,14,pool,D4,0,4,5,-1,2690.0,3071.0,-381.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,7,WONG Garrick G.,3,PARK William,18,pool,V5,1,5,5,0,2690.0,2089.0,601.0,1,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_7,7,WONG Garrick G.,4,WAYBRIGHT Matteo,21,pool,V5,1,5,5,0,2690.0,1811.0,879.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_7,6,XIE Buster,3,PARK William,3,pool,D2,0,2,5,-3,2470.0,2089.0,381.0,0,1,,
+Feb NAC 2026,pool_7,6,XIE Buster,7,WONG Garrick G.,7,pool,D1,0,1,5,-4,2470.0,2690.0,-220.0,0,2,0.0,0.0
+Feb NAC 2026,pool_7,6,XIE Buster,2,SISINNI Riccardo,10,pool,D0,0,0,5,-5,2470.0,3071.0,-601.0,0,3,0.0,0.0
+Feb NAC 2026,pool_7,6,XIE Buster,4,WAYBRIGHT Matteo,13,pool,D3,0,3,5,-2,2470.0,1811.0,659.0,0,4,0.0,0.0
+Feb NAC 2026,pool_7,6,XIE Buster,1,GULCHIN Mark (Yerma),16,pool,D3,0,3,5,-2,2470.0,2453.0,17.0,0,5,0.0,0.0
+Feb NAC 2026,pool_7,6,XIE Buster,5,DINSAY Kristjan,19,pool,D2,0,2,5,-3,2470.0,2718.0,-248.0,0,6,0.0,0.0
+Feb NAC 2026,pool_8,5,FUKUDA Diego,2,HARROCH Faustin,2,pool,V5,1,5,5,0,2669.0,2221.0,448.0,1,1,,
+Feb NAC 2026,pool_8,5,FUKUDA Diego,4,ZHAO Brian,5,pool,V5,1,5,5,0,2669.0,2050.0,619.0,1,2,1.0,1.0
+Feb NAC 2026,pool_8,5,FUKUDA Diego,1,ZHENG Marcus,8,pool,V5,1,5,5,0,2669.0,2375.0,294.0,1,3,1.0,1.0
+Feb NAC 2026,pool_8,5,FUKUDA Diego,7,TANG Alexander L.,11,pool,V5,1,5,5,0,2669.0,2555.0,114.0,1,4,1.0,1.0
+Feb NAC 2026,pool_8,5,FUKUDA Diego,3,LEE Jaden,15,pool,V5,1,5,5,0,2669.0,2258.0,411.0,1,5,1.0,1.0
+Feb NAC 2026,pool_8,5,FUKUDA Diego,6,LIN Youlong,19,pool,D1,0,1,5,-4,2669.0,3172.0,-503.0,0,6,1.0,1.0
+Feb NAC 2026,pool_8,2,HARROCH Faustin,5,FUKUDA Diego,2,pool,D1,0,1,5,-4,2221.0,2669.0,-448.0,0,1,,
+Feb NAC 2026,pool_8,2,HARROCH Faustin,3,LEE Jaden,6,pool,D4,0,4,5,-1,2221.0,2258.0,-37.0,0,2,0.0,0.0
+Feb NAC 2026,pool_8,2,HARROCH Faustin,6,LIN Youlong,10,pool,D0,0,0,5,-5,2221.0,3172.0,-951.0,0,3,0.0,0.0
+Feb NAC 2026,pool_8,2,HARROCH Faustin,7,TANG Alexander L.,14,pool,D1,0,1,5,-4,2221.0,2555.0,-334.0,0,4,0.0,0.0
+Feb NAC 2026,pool_8,2,HARROCH Faustin,4,ZHAO Brian,17,pool,V5,1,5,5,0,2221.0,2050.0,171.0,1,5,0.0,0.0
+Feb NAC 2026,pool_8,2,HARROCH Faustin,1,ZHENG Marcus,20,pool,V5,1,5,5,0,2221.0,2375.0,-154.0,1,6,1.0,0.3333333333333333
+Feb NAC 2026,pool_8,3,LEE Jaden,6,LIN Youlong,3,pool,D1,0,1,5,-4,2258.0,3172.0,-914.0,0,1,,
+Feb NAC 2026,pool_8,3,LEE Jaden,2,HARROCH Faustin,6,pool,V5,1,5,5,0,2258.0,2221.0,37.0,1,2,0.0,0.0
+Feb NAC 2026,pool_8,3,LEE Jaden,4,ZHAO Brian,9,pool,V5,1,5,5,0,2258.0,2050.0,208.0,1,3,1.0,0.5
+Feb NAC 2026,pool_8,3,LEE Jaden,1,ZHENG Marcus,12,pool,D3,0,3,5,-2,2258.0,2375.0,-117.0,0,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_8,3,LEE Jaden,5,FUKUDA Diego,15,pool,D2,0,2,5,-3,2258.0,2669.0,-411.0,0,5,0.0,0.6666666666666666
+Feb NAC 2026,pool_8,3,LEE Jaden,7,TANG Alexander L.,18,pool,D3,0,3,5,-2,2258.0,2555.0,-297.0,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_8,6,LIN Youlong,3,LEE Jaden,3,pool,V5,1,5,5,0,3172.0,2258.0,914.0,1,1,,
+Feb NAC 2026,pool_8,6,LIN Youlong,7,TANG Alexander L.,7,pool,V5,1,5,5,0,3172.0,2555.0,617.0,1,2,1.0,1.0
+Feb NAC 2026,pool_8,6,LIN Youlong,2,HARROCH Faustin,10,pool,V5,1,5,5,0,3172.0,2221.0,951.0,1,3,1.0,1.0
+Feb NAC 2026,pool_8,6,LIN Youlong,4,ZHAO Brian,13,pool,V5,1,5,5,0,3172.0,2050.0,1122.0,1,4,1.0,1.0
+Feb NAC 2026,pool_8,6,LIN Youlong,1,ZHENG Marcus,16,pool,V5,1,5,5,0,3172.0,2375.0,797.0,1,5,1.0,1.0
+Feb NAC 2026,pool_8,6,LIN Youlong,5,FUKUDA Diego,19,pool,V5,1,5,5,0,3172.0,2669.0,503.0,1,6,1.0,1.0
+Feb NAC 2026,pool_8,7,TANG Alexander L.,1,ZHENG Marcus,4,pool,V5,1,5,5,0,2555.0,2375.0,180.0,1,1,,
+Feb NAC 2026,pool_8,7,TANG Alexander L.,6,LIN Youlong,7,pool,D1,0,1,5,-4,2555.0,3172.0,-617.0,0,2,1.0,1.0
+Feb NAC 2026,pool_8,7,TANG Alexander L.,5,FUKUDA Diego,11,pool,D4,0,4,5,-1,2555.0,2669.0,-114.0,0,3,0.0,0.5
+Feb NAC 2026,pool_8,7,TANG Alexander L.,2,HARROCH Faustin,14,pool,V5,1,5,5,0,2555.0,2221.0,334.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_8,7,TANG Alexander L.,3,LEE Jaden,18,pool,V5,1,5,5,0,2555.0,2258.0,297.0,1,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_8,7,TANG Alexander L.,4,ZHAO Brian,21,pool,V5,1,5,5,0,2555.0,2050.0,505.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_8,4,ZHAO Brian,1,ZHENG Marcus,1,pool,D0,0,0,5,-5,2050.0,2375.0,-325.0,0,1,,
+Feb NAC 2026,pool_8,4,ZHAO Brian,5,FUKUDA Diego,5,pool,D2,0,2,5,-3,2050.0,2669.0,-619.0,0,2,0.0,0.0
+Feb NAC 2026,pool_8,4,ZHAO Brian,3,LEE Jaden,9,pool,D2,0,2,5,-3,2050.0,2258.0,-208.0,0,3,0.0,0.0
+Feb NAC 2026,pool_8,4,ZHAO Brian,6,LIN Youlong,13,pool,D3,0,3,5,-2,2050.0,3172.0,-1122.0,0,4,0.0,0.0
+Feb NAC 2026,pool_8,4,ZHAO Brian,2,HARROCH Faustin,17,pool,D4,0,4,5,-1,2050.0,2221.0,-171.0,0,5,0.0,0.0
+Feb NAC 2026,pool_8,4,ZHAO Brian,7,TANG Alexander L.,21,pool,D3,0,3,5,-2,2050.0,2555.0,-505.0,0,6,0.0,0.0
+Feb NAC 2026,pool_8,1,ZHENG Marcus,4,ZHAO Brian,1,pool,V5,1,5,5,0,2375.0,2050.0,325.0,1,1,,
+Feb NAC 2026,pool_8,1,ZHENG Marcus,7,TANG Alexander L.,4,pool,D3,0,3,5,-2,2375.0,2555.0,-180.0,0,2,1.0,1.0
+Feb NAC 2026,pool_8,1,ZHENG Marcus,5,FUKUDA Diego,8,pool,D3,0,3,5,-2,2375.0,2669.0,-294.0,0,3,0.0,0.5
+Feb NAC 2026,pool_8,1,ZHENG Marcus,3,LEE Jaden,12,pool,V5,1,5,5,0,2375.0,2258.0,117.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_8,1,ZHENG Marcus,6,LIN Youlong,16,pool,D1,0,1,5,-4,2375.0,3172.0,-797.0,0,5,1.0,0.3333333333333333
+Feb NAC 2026,pool_8,1,ZHENG Marcus,2,HARROCH Faustin,20,pool,D2,0,2,5,-3,2375.0,2221.0,154.0,0,6,0.0,0.3333333333333333
+Feb NAC 2026,pool_9,7,FAN Sean,1,YEVDAYEV Tamir,4,pool,D4,0,4,5,-1,1476.0,1720.0,-244.0,0,1,,
+Feb NAC 2026,pool_9,7,FAN Sean,6,OZAWA Taishi,7,pool,D0,0,0,5,-5,1476.0,2366.0,-890.0,0,2,0.0,0.0
+Feb NAC 2026,pool_9,7,FAN Sean,5,LI Richard Y.,11,pool,D1,0,1,5,-4,1476.0,2965.0,-1489.0,0,3,0.0,0.0
+Feb NAC 2026,pool_9,7,FAN Sean,2,LING Eddie,14,pool,D3,0,3,5,-2,1476.0,2773.0,-1297.0,0,4,0.0,0.0
+Feb NAC 2026,pool_9,7,FAN Sean,3,LEE Brendan,18,pool,D2,0,2,5,-3,1476.0,2655.0,-1179.0,0,5,0.0,0.0
+Feb NAC 2026,pool_9,7,FAN Sean,4,HE Patrick,21,pool,D3,0,3,5,-2,1476.0,2718.0,-1242.0,0,6,0.0,0.0
+Feb NAC 2026,pool_9,4,HE Patrick,1,YEVDAYEV Tamir,1,pool,V5,1,5,5,0,2718.0,1720.0,998.0,1,1,,
+Feb NAC 2026,pool_9,4,HE Patrick,5,LI Richard Y.,5,pool,D3,0,3,5,-2,2718.0,2965.0,-247.0,0,2,1.0,1.0
+Feb NAC 2026,pool_9,4,HE Patrick,3,LEE Brendan,9,pool,D3,0,3,5,-2,2718.0,2655.0,63.0,0,3,0.0,0.5
+Feb NAC 2026,pool_9,4,HE Patrick,6,OZAWA Taishi,13,pool,D2,0,2,5,-3,2718.0,2366.0,352.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_9,4,HE Patrick,2,LING Eddie,17,pool,D4,0,4,5,-1,2718.0,2773.0,-55.0,0,5,0.0,0.0
+Feb NAC 2026,pool_9,4,HE Patrick,7,FAN Sean,21,pool,V5,1,5,5,0,2718.0,1476.0,1242.0,1,6,0.0,0.0
+Feb NAC 2026,pool_9,3,LEE Brendan,6,OZAWA Taishi,3,pool,V5,1,5,5,0,2655.0,2366.0,289.0,1,1,,
+Feb NAC 2026,pool_9,3,LEE Brendan,2,LING Eddie,6,pool,D3,0,3,5,-2,2655.0,2773.0,-118.0,0,2,1.0,1.0
+Feb NAC 2026,pool_9,3,LEE Brendan,4,HE Patrick,9,pool,V5,1,5,5,0,2655.0,2718.0,-63.0,1,3,0.0,0.5
+Feb NAC 2026,pool_9,3,LEE Brendan,1,YEVDAYEV Tamir,12,pool,V5,1,5,5,0,2655.0,1720.0,935.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_9,3,LEE Brendan,5,LI Richard Y.,15,pool,D3,0,3,5,-2,2655.0,2965.0,-310.0,0,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_9,3,LEE Brendan,7,FAN Sean,18,pool,V5,1,5,5,0,2655.0,1476.0,1179.0,1,6,0.0,0.6666666666666666
+Feb NAC 2026,pool_9,5,LI Richard Y.,2,LING Eddie,2,pool,V5,1,5,5,0,2965.0,2773.0,192.0,1,1,,
+Feb NAC 2026,pool_9,5,LI Richard Y.,4,HE Patrick,5,pool,V5,1,5,5,0,2965.0,2718.0,247.0,1,2,1.0,1.0
+Feb NAC 2026,pool_9,5,LI Richard Y.,1,YEVDAYEV Tamir,8,pool,V5,1,5,5,0,2965.0,1720.0,1245.0,1,3,1.0,1.0
+Feb NAC 2026,pool_9,5,LI Richard Y.,7,FAN Sean,11,pool,V5,1,5,5,0,2965.0,1476.0,1489.0,1,4,1.0,1.0
+Feb NAC 2026,pool_9,5,LI Richard Y.,3,LEE Brendan,15,pool,V5,1,5,5,0,2965.0,2655.0,310.0,1,5,1.0,1.0
+Feb NAC 2026,pool_9,5,LI Richard Y.,6,OZAWA Taishi,19,pool,D4,0,4,5,-1,2965.0,2366.0,599.0,0,6,1.0,1.0
+Feb NAC 2026,pool_9,2,LING Eddie,5,LI Richard Y.,2,pool,D2,0,2,5,-3,2773.0,2965.0,-192.0,0,1,,
+Feb NAC 2026,pool_9,2,LING Eddie,3,LEE Brendan,6,pool,V5,1,5,5,0,2773.0,2655.0,118.0,1,2,0.0,0.0
+Feb NAC 2026,pool_9,2,LING Eddie,6,OZAWA Taishi,10,pool,V5,1,5,5,0,2773.0,2366.0,407.0,1,3,1.0,0.5
+Feb NAC 2026,pool_9,2,LING Eddie,7,FAN Sean,14,pool,V5,1,5,5,0,2773.0,1476.0,1297.0,1,4,1.0,0.6666666666666666
+Feb NAC 2026,pool_9,2,LING Eddie,4,HE Patrick,17,pool,V5,1,5,5,0,2773.0,2718.0,55.0,1,5,1.0,1.0
+Feb NAC 2026,pool_9,2,LING Eddie,1,YEVDAYEV Tamir,20,pool,V5,1,5,5,0,2773.0,1720.0,1053.0,1,6,1.0,1.0
+Feb NAC 2026,pool_9,6,OZAWA Taishi,3,LEE Brendan,3,pool,D4,0,4,5,-1,2366.0,2655.0,-289.0,0,1,,
+Feb NAC 2026,pool_9,6,OZAWA Taishi,7,FAN Sean,7,pool,V5,1,5,5,0,2366.0,1476.0,890.0,1,2,0.0,0.0
+Feb NAC 2026,pool_9,6,OZAWA Taishi,2,LING Eddie,10,pool,D2,0,2,5,-3,2366.0,2773.0,-407.0,0,3,1.0,0.5
+Feb NAC 2026,pool_9,6,OZAWA Taishi,4,HE Patrick,13,pool,V5,1,5,5,0,2366.0,2718.0,-352.0,1,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_9,6,OZAWA Taishi,1,YEVDAYEV Tamir,16,pool,V5,1,5,5,0,2366.0,1720.0,646.0,1,5,1.0,0.6666666666666666
+Feb NAC 2026,pool_9,6,OZAWA Taishi,5,LI Richard Y.,19,pool,V5,1,5,5,0,2366.0,2965.0,-599.0,1,6,1.0,0.6666666666666666
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,4,HE Patrick,1,pool,D0,0,0,5,-5,1720.0,2718.0,-998.0,0,1,,
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,7,FAN Sean,4,pool,V5,1,5,5,0,1720.0,1476.0,244.0,1,2,0.0,0.0
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,5,LI Richard Y.,8,pool,D1,0,1,5,-4,1720.0,2965.0,-1245.0,0,3,1.0,0.5
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,3,LEE Brendan,12,pool,D1,0,1,5,-4,1720.0,2655.0,-935.0,0,4,0.0,0.3333333333333333
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,6,OZAWA Taishi,16,pool,D3,0,3,5,-2,1720.0,2366.0,-646.0,0,5,0.0,0.3333333333333333
+Feb NAC 2026,pool_9,1,YEVDAYEV Tamir,2,LING Eddie,20,pool,D0,0,0,5,-5,1720.0,2773.0,-1053.0,0,6,0.0,0.0
