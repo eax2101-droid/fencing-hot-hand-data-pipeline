@@ -48,7 +48,7 @@ pip install pandas numpy matplotlib scikit-learn statsmodels
 2. Open the notebook in JupyterLab:
 
 ```bash
-jupyter lab fencing_hot_hand_analysis.ipynb
+jupyter lab fencing_hot_hand_final.ipynb
 ```
 
 3. Run all cells:
@@ -64,6 +64,4 @@ Kernel → Restart & Run All
 - `skill_controlled_predicted_win_rate.png` — model-based visualization of the skill-controlled hot-hand effect
 
 ### Note
-Each bout appears twice in the fencer-bout-level dataset, once from each fencer’s perspective. This is useful for creating per-fencer sequential features, but it means observations are not fully independent. The statistical results should therefore be interpreted as exploratory rather than causal.
-
-This project is intended as a first end-to-end pipeline prototype. The current analysis uses 13 pools from one tournament, so the model results should be interpreted as exploratory. The pipeline structure can be extended by adding more tournaments, additional rating sources, and larger samples of pool bouts.
+Because each bout appears twice — once from each fencer’s perspective — observations are not fully independent. For that reason, the regression results should be interpreted as exploratory rather than causal. The purpose of this project is to demonstrate an end-to-end data pipeline and skill-controlled modeling framework, which can be extended with more tournaments, rating sources, and larger samples.
